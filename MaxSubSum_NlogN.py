@@ -35,7 +35,7 @@ def maxSubarraySum(A, low, high):
             return (cro_l, cro_r, max_cr)
 
 if __name__=='__main__':
-    A= [13, -3 -25, 20 -3, -16, -23, 18, 20, -7, 12, -5, -22, 15, -4, 7]
+    A= [13, -3, -25, 20, -3, -16, -23, 18, 20, -7, 12, -5, -22, 15, -4, 7]
     ans = maxSubarraySum(A, 0, 15)
     print("left index: ", ans[0])
     print("right index: ", ans[1])
