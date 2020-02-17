@@ -33,7 +33,7 @@ public:
 		cout<<"Vertices: "<<V<<endl;
 		cout<<"Edges: "<<endl;
 		for(int i=0; i<E; i++){
-			cout << edge[i].src << " " << edge[i].dest << " " << weight <<endl;
+			cout << edge[i].src << " " << edge[i].dest << " " << edge[i].weight <<endl;
 		}
 	}
 };
