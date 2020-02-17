@@ -1,0 +1,8 @@
+2 4 6 8 10 12 
+present
+present
+present
+present
+Not Present
+Not Present
+Not Present

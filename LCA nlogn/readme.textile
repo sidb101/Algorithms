@@ -1,0 +1,22 @@
+Problem -
+=======
+Given a Tree (AdjList) and Q queries each having pair (u, v). Find the 
+LCA for each pair of nodes, assuming both u & v exist in Tree
+
+INPUT -
+=====
+n
+(for node=1) number_of_adj_nodes [list of adj nodes]
+(for node=2) number_of_adj_nodes [list of adj nodes]
+..
+(for node=n) number_of_adj_nodes [list of adj nodes]
+q
+u1 v1
+..
+uq vq
+
+Solution -
+========
+O(n) Preprocessing with O(logn) queries, modelling the LCA problem as 
+RMQ problem by traversing Euler Tour
+
