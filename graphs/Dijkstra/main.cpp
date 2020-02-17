@@ -99,5 +99,3 @@ int main(){
 	return 0;
 	
 }
-
-(select row_number() over partition by(rider) order by ride_time desc as ride_no)
