@@ -1,0 +1,8 @@
+i: 0, set: 6
+i: 1, set: 2
+i: 2, set: 2
+i: 3, set: 6
+i: 4, set: 6
+i: 5, set: 6
+i: 6, set: 6
+
