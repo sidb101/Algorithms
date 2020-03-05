@@ -1,0 +1,5 @@
+1 - Articulation Point: true
+2 - Articulation Point: false
+3 - Articulation Point: false
+4 - Articulation Point: true
+5 - Articulation Point: false
