@@ -1,4 +1,0 @@
-Vertices: 3
-Edges: 
-1 2 0
-2 3 0
